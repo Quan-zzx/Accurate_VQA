@@ -1,12 +1,16 @@
 # Accurate_VQA
+This repository contains the official code implementation for the paper **Enhanced Multimodal RAG-LLM for Accurate Visual Question Answering**
+
+
 
 ## Install
 ### Requirements
 Our work SGG reference this [code](https://github.com/Maelic/SGG-Benchmark/tree/main),so most of the requirements of this projects are similar to it.You also conference it.
 
-python>=3.8
-pytorch==2.2.1(CUDA 12.1)
-torchvision >= 0.4
+python>=3.8  
+pytorch==2.2.1(CUDA 12.1)  
+torchvision >= 0.4  
+transforms 
 
 ## Dataset
 For the VG150 dataset, you can refer to the link to the SGG code repository above to download it
