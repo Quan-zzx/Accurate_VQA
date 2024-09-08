@@ -17,7 +17,7 @@ For the VG150 dataset, you can refer to the link to the SGG code repository abov
 For the AUG dataset,you can refer to the [link](https://gitee.com/xiaoyibang/lpg-sgg) download it
 
 ## Weight
-For the weights of SGG on the AUG dataset, you can download [it](https://pan.baidu.com/s/1DZYS1eozHA-SK-Fv-yCFpQ?pwd=0000) here
+For the weights of SGG on the AUG dataset, you can download [it hear by BaiduNetDisk](https://pan.baidu.com/s/1DZYS1eozHA-SK-Fv-yCFpQ?pwd=0000) or [Google NetDist](https://drive.google.com/file/d/1JDxMu9LPM0VIAHYxRjVGCFvh2W71xcn9/view?usp=sharing)
 
 ## Demo
 [demo.ipynb](https://github.com/Quan-zzx/Accurate_VQA/blob/main/demo.ipynb) Provided a demo to run the Accuracy VQA in our paper.  
