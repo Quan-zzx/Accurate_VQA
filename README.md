@@ -24,5 +24,8 @@ For the weights of SGG on the AUG dataset, you can download [it hear by BaiduNet
 
 
 ## experience
-This folder contains the experiments in our paper.
+This folder contains the experiments in our paper.You can view [the introduction of each file here](https://github.com/Quan-zzx/Accurate_VQA/blob/main/experiment/readme.md)  
+The following are the experimental results comparing our method with different multimodal large models  
+![](https://github.com/Quan-zzx/Accurate_VQA/blob/main/results/result1.png) ![](https://github.com/Quan-zzx/Accurate_VQA/blob/main/results/result2.png)  
+![](https://github.com/Quan-zzx/Accurate_VQA/blob/main/results/result3.png) ![](https://github.com/Quan-zzx/Accurate_VQA/blob/main/results/result4.png)
 
