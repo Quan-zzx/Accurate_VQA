@@ -22,7 +22,7 @@ For the AUG dataset,you can refer to the [link](https://gitee.com/xiaoyibang/lpg
 Due to the need to convert Raw data into the format required by the [above framework](https://github.com/Maelic/SGG-Benchmark/tree/main) for scene graph generation, [this folder](https://github.com/Quan-zzx/Accurate_VQA/tree/main/AUG_deal_data) provides the processed files of the AUG dataset
 
 ## Weight
-For the weights of SGG on the AUG dataset, you can download [it hear by BaiduNetDisk](https://pan.baidu.com/s/1DZYS1eozHA-SK-Fv-yCFpQ?pwd=0000) or [Google NetDist](https://drive.google.com/file/d/1JDxMu9LPM0VIAHYxRjVGCFvh2W71xcn9/view?usp=sharing)
+For the weights of SGG on the AUG dataset, you can download [it here by BaiduNetDisk](https://pan.baidu.com/s/1DZYS1eozHA-SK-Fv-yCFpQ?pwd=0000) or [Google NetDist](https://drive.google.com/file/d/1JDxMu9LPM0VIAHYxRjVGCFvh2W71xcn9/view?usp=sharing)
 
 
 ## experience
