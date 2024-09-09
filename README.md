@@ -2,6 +2,7 @@
 This repository contains the official code implementation for the paper **Enhanced Multimodal RAG-LLM for Accurate Visual Question Answering**
 
 
+![](https://github.com/Quan-zzx/Accurate_VQA/blob/main/results/framework.png)
 
 ## Install
 ### Requirements
