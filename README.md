@@ -4,6 +4,8 @@ This repository contains the official code implementation for the paper **Enhanc
 
 ![](https://github.com/Quan-zzx/Accurate_VQA/blob/main/results/framework.png)
 
+
+
 ## Install
 ### Requirements
 Our work SGG reference this [code](https://github.com/Maelic/SGG-Benchmark/tree/main),so most of the requirements of this projects are similar to it.You also conference it.
@@ -20,9 +22,6 @@ For the AUG dataset,you can refer to the [link](https://gitee.com/xiaoyibang/lpg
 ## Weight
 For the weights of SGG on the AUG dataset, you can download [it hear by BaiduNetDisk](https://pan.baidu.com/s/1DZYS1eozHA-SK-Fv-yCFpQ?pwd=0000) or [Google NetDist](https://drive.google.com/file/d/1JDxMu9LPM0VIAHYxRjVGCFvh2W71xcn9/view?usp=sharing)
 
-## Demo
-[demo.ipynb](https://github.com/Quan-zzx/Accurate_VQA/blob/main/demo.ipynb) Provided a demo to run the Accuracy VQA in our paper.  
-You may need to modify the **get_respose()** in it, replacing it with the LLM you want to use and your own API key, or using a locally built LLM.
 
 ## experience
 This folder contains the experiments in our paper.
