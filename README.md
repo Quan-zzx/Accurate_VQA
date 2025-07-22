@@ -1,5 +1,6 @@
 # Accurate_VQA
-This repository contains the official code implementation for the paper **Enhanced Multimodal RAG-LLM for Accurate Visual Question Answering**
+This repository contains the official code implementation for the paper **Structured Scene Graph Augmentation for Large Language Model in
+Complex Visual Reasoning**
 
 
 ![](https://github.com/Quan-zzx/Accurate_VQA/blob/main/results/framework.png)
