@@ -2,8 +2,8 @@
 This repository contains the official code implementation for the paper **Structured Scene Graph Augmentation for Large Language Model in
 Complex Visual Reasoning**
 
+<img width="1803" height="814" alt="image" src="https://github.com/user-attachments/assets/153bcc81-597e-4d99-9389-24b42a9e5846" />
 
-![](https://github.com/Quan-zzx/Accurate_VQA/blob/main/results/framework.png)
 
 
 
